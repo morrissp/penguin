@@ -3,7 +3,7 @@ Penguin test
 
 To run this Spring Boot application do the following within the project root folder:
 
-1) mvn clean package
+1) mvn clean install
 2) java -jar target/webapp-technicaltest-1.0-SNAPSHOT.jar
 
 You can then do two things:
